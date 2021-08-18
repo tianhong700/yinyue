@@ -1,0 +1,53 @@
+{
+    "launch": {
+        "pic": [
+            "https://cdn.jsdelivr.net/gh/k8dmss/xiaocanku@master/202108170456357e1a3b6318b056e6e5889e36645a3b42.jpg",
+            "https://cdn.jsdelivr.net/gh/k8dmss/xiaocanku@master/20210817045636500b8a21fa06230a00dbc99d3bcdb61f.jpg",
+            "https://cdn.jsdelivr.net/gh/k8dmss/xiaocanku@master/202108170456386ca1fa054408d97b72d343a17b49471e.jpg",
+            "https://cdn.jsdelivr.net/gh/k8dmss/xiaocanku@master/20210817045640a359f42364d03af2270be2774e46ab3d.win4000.jpg",
+            "https://cdn.jsdelivr.net/gh/k8dmss/xiaocanku@master/20210817045642af8341c34d69a683903bb4e3125561ee.jpg",
+            "https://cdn.jsdelivr.net/gh/k8dmss/xiaocanku@master/202108170456451b9ff6033779e482a310dcedb3cf921e.jpg",
+            "https://cdn.jsdelivr.net/gh/k8dmss/xiaocanku@master/20210817045646f4513fff443c4db9ad84e62dac817772.jpg",
+            "https://cdn.jsdelivr.net/gh/k8dmss/xiaocanku@master/20210817045647d0dd7cb122de13a1941e992fcf627ee0.jpg",
+            "https://cdn.jsdelivr.net/gh/k8dmss/xiaocanku@master/202108170456494c4028d7595fb83b43a2be2fd43afbf6.jpg",
+            "https://cdn.jsdelivr.net/gh/k8dmss/xiaocanku@master/20210817045651d487a73452a57804d4ca65232cc5c361.jpg",
+            "https://cdn.jsdelivr.net/gh/k8dmss/xiaocanku@master/2021081704565227f7a03f86b5a054b5f46f802e1f2cfd.jpg",
+            "https://cdn.jsdelivr.net/gh/k8dmss/xiaocanku@master/20210817045654a00b4b566c08129f7c97cd0c53f83629.jpg",
+            "https://cdn.jsdelivr.net/gh/k8dmss/xiaocanku@master/20210817045656a311c1d85b179b73540fdd3808d402ec.jpg",
+            "https://cdn.jsdelivr.net/gh/k8dmss/xiaocanku@master/202108170456578c24775a22b0a4d4364decc44598bbfe.hdslb.jpg",
+            "https://cdn.jsdelivr.net/gh/k8dmss/xiaocanku@master/2021081704565826ec1b64ba3c41e76f179356ed1c8f09.jpg",
+            "https://cdn.jsdelivr.net/gh/k8dmss/xiaocanku@master/2021081704570039345bcc4101328d31d4f239d2b734f8.jpg"
+        ],
+        "url": ""
+    },
+    "appversion": "1.0.2",
+    "url": "https://11kt.net/",
+    "about": "https://txt.11kt.net/ban1.html",
+    "nav": [
+        {
+            "title": "線路1",
+            "icon": "https://cdn.jsdelivr.net/gh/k8dmss/xiaocanku@master/202108160759563d6a9b958046f2efbc42e1b3119dffff.png",
+            "url": "https://11kt.net/"
+        },
+        {
+            "title": "線路2",
+            "icon": "https://cdn.jsdelivr.net/gh/k8dmss/xiaocanku@master/202108160759563d6a9b958046f2efbc42e1b3119dffff.png",
+            "url": "https://k8dm.com/"
+        },
+        {
+            "title": "線路3",
+            "icon": "https://cdn.jsdelivr.net/gh/k8dmss/xiaocanku@master/202108160759563d6a9b958046f2efbc42e1b3119dffff.png",
+            "url": "https://www.k8dm.com/"
+        },
+        {
+            "title": "線路4",
+            "icon": "https://cdn.jsdelivr.net/gh/k8dmss/xiaocanku@master/202108160759563d6a9b958046f2efbc42e1b3119dffff.png",
+            "url": "https://www.k6dm.com/"
+        },
+        {
+            "title": "線路5",
+            "icon": "https://cdn.jsdelivr.net/gh/k8dmss/xiaocanku@master/202108160759563d6a9b958046f2efbc42e1b3119dffff.png",
+            "url": "https://k6dm.com/"
+        }
+    ]
+}
